@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is John. I am 3rd Year Uni student with a strong background in fullstack development. I have developed a deep understanding of frontend,backend and data science. I am passionate about fullstack development and data science and am dedicated to delivering high-quality results in everything I do. I believe in continuous learning and growth, and I am always seeking new challenges to expand my knowledge and experience. I look forward to the opportunity to connect and collaborate with like-minded individuals in the future.
+Hello, my name is John. I am a final Year University student with a strong background in fullstack development. I have developed a deep understanding of fullstack development and data science. I  am dedicated to delivering high-quality results in everything I do. I believe in continuous learning and growth, and I am always seeking new challenges to expand my knowledge and experience. I look forward to the opportunity to connect and collaborate with like-minded individuals in the future.
 
 
 ## 🌐 Socials:
